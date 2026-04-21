@@ -1,0 +1,8 @@
+[build-system]
+requires = []
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "QoreTek_FlowSiN_800_V1p0p4_Latitudeda documentation"
+authors = [{ name = "weibin", email = "weibin@latitudeda.com" }]
+dynamic = ["version", "description"]
