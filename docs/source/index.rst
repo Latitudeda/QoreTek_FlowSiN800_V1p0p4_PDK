@@ -19,7 +19,6 @@ This documentation is organized into the following sections:
 - **Technology Setting**: Understand the available technology configurations in the PDK.
 - **Component Library**: Preview the components included in the PDK.
 - **Quick Start Layout**: Get started quickly with the PDK using **PhotoCAD** and **Advanced SDL**.
-- **Quick Start Circuit Simulation**: Get started quickly with the SimModel using **pSim Plus**.
 
 
 .. toctree::

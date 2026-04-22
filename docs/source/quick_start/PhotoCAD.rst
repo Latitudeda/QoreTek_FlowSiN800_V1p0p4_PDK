@@ -1,7 +1,7 @@
 PhotoCAD
 =======================================
 
-This section demonstrates how to import the QoreTek_FlowSiN_800_V1p0p4_Latitudeda PDK into **PhotoCAD**. It is divided into two steps: creating a **PhotoCAD** workspace and importing the QoreTek_FlowSiN_800_V1p0p4_Latitudeda PDK. If a **PhotoCAD** workspace has already been created, the user can skip to step 2: :ref:`import-pdk-step`.
+This section demonstrates how to import the **QoreTek FlowSiN 800 PDK** into **PhotoCAD**. It is divided into two steps: creating a **PhotoCAD** workspace and importing the **QoreTek FlowSiN 800 PDK**. If a **PhotoCAD** workspace has already been created, the user can skip to step 2: :ref:`import-pdk-step`.
 
 Create a PhotoCAD Workspace
 *******************************************
@@ -50,10 +50,10 @@ The workspace has been created successfully if you see a pop-up window like the 
 
 .. _import-pdk-step:
 
-Import QoreTek_FlowSiN_800_V1p0p4_Latitudeda PDK into PhotoCAD
+Import QoreTek FlowSiN 800 PDK into PhotoCAD
 *******************************************
 
-First, make sure that the QoreTek_FlowSiN_800_V1p0p4_Latitudeda PDK version matches the version of **PhotoCAD**. The version of **PhotoCAD** can be obtained in ``Run`` by running scripts in **PhotoCAD**.
+First, make sure that the **QoreTek FlowSiN 800 PDK** version matches the version of **PhotoCAD**. The version of **PhotoCAD** can be obtained in ``Run`` by running scripts in **PhotoCAD**.
 
 Extract the ``QoreTek_FlowSiN_800_V1p0p4_Latitudeda`` zip archive and copy it to the workspace folder. As shown in the figure below, the ``QoreTek_FlowSiN_800_V1p0p4_Latitudeda`` folder is in the demo folder and parallel to .venv_demo_QoreTek_FlowSiN800.
 

@@ -1,7 +1,7 @@
 Technology setting
 ========================
 
-The technology in QoreTek FlowSiN 800 V1p0p4 PDK holds a number of common configuration files dealing with process and layout display, such as:
+The technology in **QoreTek FlowSiN 800 V1p0p4 PDK** holds a number of common configuration files dealing with process and layout display, such as:
 
 
 
