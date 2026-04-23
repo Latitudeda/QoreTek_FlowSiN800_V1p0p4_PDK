@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'QoreTek FlowSiN 800 PDK documentation'
+project = 'QoreTekFlowSiN800nmPDKdocumentation'
 copyright = '2026, Latitudeda.com'
 author = 'www.latitudeda.com'
 
