@@ -6,6 +6,7 @@ Component library
 
    bb_Bent_DC
    bb_Crossing
+   bb_Design_Region
    bb_LinearEC
    bb_LinearGC
    bb_MMI1x2
